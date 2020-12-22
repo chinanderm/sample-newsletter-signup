@@ -1,0 +1,71 @@
+{
+    "homeLink": {
+        "url": "/",
+        "image": "/images/logo.png",
+        "imageWhite": "/images/logo--white.png",
+        "altText": "Acme Corporation Logo - To Home Page"
+    },
+    "footer": {
+        "legal": [
+            {
+                "text": "&copy; 2020 Acme Corporation."
+            },
+            {
+                "text": "Privacy Policy",
+                "url": "#"
+            },
+            {
+                "text": "Terms of Service",
+                "url": "#"
+            }
+        ],
+        "homeLink": {
+            "url": "/",
+            "image": "/images/logo.png",
+            "imageWhite": "/images/logo.png",
+            "altText": "Acme Corporation Logo - To Home Page"
+        }
+    },
+    "headline": {
+        "heading": {
+            "text": "Join 140,000 leaders like you and super charge your inbox."
+        },
+        "description": {
+            "text": "From leadership tips to productivity hacks, you'll be inspired by new ways to engage your employees, grow your business, and save time, and understand economic trends. Here's what you'll get:"
+        }
+    },
+    "signUpForm": {
+        "emailField": {   
+            "id": "sign-up-email",
+            "placeholder": "What is your best email?",
+            "type": "email"
+        },
+        "submitButton": {
+            "text": "Super Charge My Inbox"
+        }
+    },
+    "benefitCards": [
+        {
+            "id": "insights",
+            "text": "Weekly actionable insights straight to your inbox.",
+            "image": {
+                "altText": "Group of employees",
+                "url": "/images/graphic-employees.svg"
+            }
+        }, {
+            "id": "reports",
+            "text": "Monthly hourly workforce employment reports.",
+            "image": {
+                "altText": "Person standing at a white board",
+                "url": "/images/graphic-board.svg"
+            }
+        }, {
+            "id": "resources-trends",
+            "text": "Early access to resources and industry trends.",
+            "image": {
+                "altText": "Radio broadcast tower",
+                "url": "/images/graphic-tower.svg"
+            }
+        }
+    ]
+}

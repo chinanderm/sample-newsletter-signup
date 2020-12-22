@@ -1,0 +1,19 @@
+* {
+   box-sizing: border-box;
+}
+
+html {
+   font-size: 10px;
+}
+
+body {
+   color: #333333;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-size: 100%;
+   line-height: 1;
+   background-color: #fff;
+}
+
+body.dark-mode {
+   background-color: #050505;
+}
